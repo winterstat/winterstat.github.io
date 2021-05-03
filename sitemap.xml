@@ -1,292 +1,176 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>winterstat.github.io/publication-type/2/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/authors/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/smid-2020/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication_types/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/sanne-c.-smid/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/sonja-d.-winter/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/marieke-visser/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/sarah-depaoli/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/depaoli-2020/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/project/</loc>
     <lastmod>2020-10-18T15:08:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/project/shiny-app-3/</loc>
     <lastmod>2020-10-18T15:08:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/sonja-d.-winter/</loc>
     <lastmod>2020-10-18T15:08:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/project/shiny-app-1/</loc>
     <lastmod>2020-09-18T14:59:07-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication-type/6/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/van-de-schoot-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/duco-veen/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/laurent-smeets/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/rens-van-de-schoot/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/project/shiny-app-2/</loc>
     <lastmod>2019-09-18T15:08:34-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/winter-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/approximate-measurement-invariance/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/bayesian-statistics/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/depaoli-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/keke-lai/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/kiero-guerra-pena/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/longitudinal-data/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/small-sample-size/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tags/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/hoorn-2018/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/johan-f.-hoorn/</loc>
     <lastmod>2018-12-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/amber-c.-arroyo/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/winter-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/vande-schoot-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/cross-country-comparison/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/cushings-syndrome/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/cushingqol/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/holly-m.-rus/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/jitske-tiemensma/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/john-m.-felt/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/marit-sijbrandij/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/measurement-invariance/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/miranda-olff/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/nancy-e.-van-loey/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/tag/quality-of-life/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/tiemensma-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/vande-schoot-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/jeroen-k.-vermunt/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/marielle-zondervan-zwijnenburg/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/oisin-ryan/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/van-de-schoot-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/christopher-j.-ferguson/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/author/elly-a.-konijn/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/publication/konijn-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>winterstat.github.io/talk/</loc>
   </url>
-  
 </urlset>
