@@ -5,7 +5,7 @@
     <link>https://winterstat.github.io/publication/</link>
       <atom:link href="https://winterstat.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://winterstat.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,22 +13,99 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://winterstat.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://winterstat.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Dangers of the Defaults: A Tutorial on the Impact of Default Priors When Using Bayesian SEM With Small Samples</title>
+      <link>https://winterstat.github.io/publication/smid-2020/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/smid-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Importance of Prior Sensitivity Analysis in Bayesian Statistics: Demonstrations Using an Interactive Shiny App</title>
+      <link>https://winterstat.github.io/publication/depaoli-2020/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/depaoli-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tutorial on Using The Wambs Checklist to Avoid The Misuse of Bayesian Statistics</title>
+      <link>https://winterstat.github.io/publication/van-de-schoot-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/van-de-schoot-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An illustration of Bayesian approximate measurement invariance with longitudinal data and a small sample size</title>
+      <link>https://winterstat.github.io/publication/winter-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/winter-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Continuous Non-Normal Skewed Distributions in Latent Growth Mixture Modeling: An Assessment of Specification Errors and Class Enumeration</title>
+      <link>https://winterstat.github.io/publication/depaoli-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/depaoli-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Here Comes the Bad News: Doctor Robot Taking Over</title>
+      <link>https://winterstat.github.io/publication/hoorn-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/hoorn-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Differences in How the CushingQoL Is Interpreted Across Countries: Comparing Patients From the U.S. and the Netherlands</title>
+      <link>https://winterstat.github.io/publication/winter-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/winter-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation</title>
+      <link>https://winterstat.github.io/publication/vande-schoot-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/vande-schoot-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The performance of the IES-R for Latinos and non-Latinos: Assessing measurement invariance</title>
+      <link>https://winterstat.github.io/publication/tiemensma-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/tiemensma-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Review of Bayesian Articles in Psychology: The Last 25 Years.</title>
+      <link>https://winterstat.github.io/publication/vande-schoot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/vande-schoot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies</title>
+      <link>https://winterstat.github.io/publication/van-de-schoot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/van-de-schoot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Possible Solution to Publication Bias Through Bayesian Statistics, Including Proper Null Hypothesis Testing</title>
+      <link>https://winterstat.github.io/publication/konijn-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/konijn-2015/</guid>
+      <description></description>
     </item>
     
   </channel>

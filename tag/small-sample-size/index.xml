@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>small sample size | Sonja D. Winter</title>
-    <link>winterstat.github.io/tag/small-sample-size/</link>
-      <atom:link href="winterstat.github.io/tag/small-sample-size/index.xml" rel="self" type="application/rss+xml" />
+    <title>small sample size | Academic</title>
+    <link>https://winterstat.github.io/tag/small-sample-size/</link>
+      <atom:link href="https://winterstat.github.io/tag/small-sample-size/index.xml" rel="self" type="application/rss+xml" />
     <description>small sample size</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sonja D. Winter</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/winterstat.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://winterstat.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>small sample size</title>
-      <link>winterstat.github.io/tag/small-sample-size/</link>
+      <link>https://winterstat.github.io/tag/small-sample-size/</link>
     </image>
     
     <item>
       <title>An illustration of Bayesian approximate measurement invariance with longitudinal data and a small sample size</title>
-      <link>winterstat.github.io/publication/winter-2019/</link>
+      <link>https://winterstat.github.io/publication/winter-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>winterstat.github.io/publication/winter-2019/</guid>
+      <guid>https://winterstat.github.io/publication/winter-2019/</guid>
       <description></description>
     </item>
     

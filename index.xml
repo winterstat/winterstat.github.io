@@ -110,6 +110,54 @@
     </item>
     
     <item>
+      <title>Dangers of the Defaults: A Tutorial on the Impact of Default Priors When Using Bayesian SEM With Small Samples</title>
+      <link>https://winterstat.github.io/publication/smid-2020/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/smid-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Importance of Prior Sensitivity Analysis in Bayesian Statistics: Demonstrations Using an Interactive Shiny App</title>
+      <link>https://winterstat.github.io/publication/depaoli-2020/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/depaoli-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny App: The Importance of Prior Sensitivity Analysis in Bayesian Statistics</title>
+      <link>https://winterstat.github.io/project/shiny-app-3/</link>
+      <pubDate>Sun, 18 Oct 2020 15:08:34 -0700</pubDate>
+      <guid>https://winterstat.github.io/project/shiny-app-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny App: The Impact of Prior Distributions in a Bayesian Latent Growth Model</title>
+      <link>https://winterstat.github.io/project/shiny-app-1/</link>
+      <pubDate>Fri, 18 Sep 2020 14:59:07 -0700</pubDate>
+      <guid>https://winterstat.github.io/project/shiny-app-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tutorial on Using The Wambs Checklist to Avoid The Misuse of Bayesian Statistics</title>
+      <link>https://winterstat.github.io/publication/van-de-schoot-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/van-de-schoot-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiny App: First Bayesian Inference</title>
+      <link>https://winterstat.github.io/project/shiny-app-2/</link>
+      <pubDate>Wed, 18 Sep 2019 15:08:34 -0700</pubDate>
+      <guid>https://winterstat.github.io/project/shiny-app-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>https://winterstat.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -239,35 +287,75 @@ Three
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://winterstat.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://winterstat.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>An illustration of Bayesian approximate measurement invariance with longitudinal data and a small sample size</title>
+      <link>https://winterstat.github.io/publication/winter-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/winter-2019/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://winterstat.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://winterstat.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Implementing Continuous Non-Normal Skewed Distributions in Latent Growth Mixture Modeling: An Assessment of Specification Errors and Class Enumeration</title>
+      <link>https://winterstat.github.io/publication/depaoli-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/depaoli-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Here Comes the Bad News: Doctor Robot Taking Over</title>
+      <link>https://winterstat.github.io/publication/hoorn-2018/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/hoorn-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Differences in How the CushingQoL Is Interpreted Across Countries: Comparing Patients From the U.S. and the Netherlands</title>
+      <link>https://winterstat.github.io/publication/winter-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/winter-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation</title>
+      <link>https://winterstat.github.io/publication/vande-schoot-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/vande-schoot-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The performance of the IES-R for Latinos and non-Latinos: Assessing measurement invariance</title>
+      <link>https://winterstat.github.io/publication/tiemensma-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/tiemensma-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Review of Bayesian Articles in Psychology: The Last 25 Years.</title>
+      <link>https://winterstat.github.io/publication/vande-schoot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/vande-schoot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The GRoLTS-Checklist: Guidelines for Reporting on Latent Trajectory Studies</title>
+      <link>https://winterstat.github.io/publication/van-de-schoot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/van-de-schoot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Possible Solution to Publication Bias Through Bayesian Statistics, Including Proper Null Hypothesis Testing</title>
+      <link>https://winterstat.github.io/publication/konijn-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://winterstat.github.io/publication/konijn-2015/</guid>
+      <description></description>
     </item>
     
     <item>
