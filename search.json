@@ -81,7 +81,7 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Sonja D. Winter, PhD\nAssistant Professor of Statistics, Measurement, and Evaluation in Education\n\n\n\n\n\n\nSonja Winter received a BSc and MSc in Developmental Psychology from Utrecht University in 2011 and 2013, and a PhD in Quantitative Methods, Measurement, and Statistics from the University of California, Merced in 2021. From 2021 to 2023 she worked as a postdoctoral researcher at the Missouri Prevention Science Institute at the University of Missouri. In 2023 she started her position as assistant professor in the Statistics, Measurement, and Evaluation in Education program at the College of Education and Human Development of the University of Missouri. Her research focuses on the development and application of Bayesian approaches to the analysis of educational and developmental psychological data, with a specific emphasis on the role of priors.\nWhen not working, Sonja enjoys baking and bird watching.\n CV\n\n\n\n\n\nCheck back soon to meet the lab’s first ever graduate student!\n\n\n\n\n\n Back to top"
+    "text": "Sonja D. Winter, PhD\nAssistant Professor of Statistics, Measurement, and Evaluation in Education\n\n\n\n\n\n\nSonja Winter received a BSc and MSc in Developmental Psychology from Utrecht University in 2011 and 2013, and a PhD in Quantitative Methods, Measurement, and Statistics from the University of California, Merced in 2021. From 2021 to 2023 she worked as a postdoctoral researcher at the Missouri Prevention Science Institute at the University of Missouri. In 2023 she started her position as assistant professor in the Statistics, Measurement, and Evaluation in Education program at the College of Education and Human Development of the University of Missouri. Her research focuses on the development and application of Bayesian approaches to the analysis of educational and developmental psychological data, with a specific emphasis on the role of priors.\nWhen not working, Sonja enjoys baking and bird watching.\n CV\n\n\n\n\n\nTive Khumalo, MA\nGraduate Student, Statistics, Measurement, and Evaluation in Education\n\n\n\n\n\n\nTive Khumalo received a BSc in Physics and Mathematics from the University of Eswatini (formerly Swaziland) in 2019. In 2024, he earned his Master’s in Statistics, Measurement, and Evaluation in Education from the University of Missouri, Columbia through the Fulbright program. Tive is currently a first-year PhD student in Statistics, Measurement, and Evaluation in Education at the University of Missouri, Columbia. His research focuses on model evaluation methods, particularly issues related to cross-validation methods in model selection and prediction, fitting propensity, and Bayesian methods.\nDuring his spare time, he enjoys playing PC games and watching anime.\n CV\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "people.html#sonja-d.-winter-phd",
@@ -103,5 +103,19 @@
     "title": "Publications",
     "section": "2018 - 2019",
     "text": "2018 - 2019\nDepaoli, S., Winter, S. D., Lai, K., & Guerra-Peña, K. (2019). Implementing continuous non-normal skewed distributions in latent growth mixture modeling: An assessment of specification errors and class enumeration. Multivariate Behavioral Research, 54(6), 795-821. doi:10.1080/00273171.2019.1593813\nHoorn, J. F., & Winter, S. D. (2018). Here comes the bad news: Doctor robot taking over. International Journal of Social Robotics, 10, 519-535. doi:10.1007/s12369-017-0455-2\nTiemensma, J., Depaoli, S., Winter, S. D., Felt, J. M., Rus, H., & Arroyo, A. C. (2018). The Performance of the IES-R for Latinos and non-Latinos: Assessing Measurement Invariance. PLoS ONE, 13(4), e0195229. doi:10.1371/journal.pone.0195229\nvan de Schoot, R., Sijbrandij, M., Depaoli, S., Winter, S. D., & van Loey, N. (2018). Bayesian PTSD-Trajectory Analysis with Informed Priors Based on a Systematic Literature Search and Expert Elicitation. Multivariate Behavioral Research, 53(2), 267-291. doi:10.1080/00273171.2017.1412293 [OSF]\nWinter, S. D., Depaoli, S., & Tiemensma, J. (2018). Assessing differences in how the CushingQoL is interpreted across countries: Comparing patients from the U.S. and the Netherlands. Frontiers in Endocrinology, 9, 368.doi:10.3389/fendo.2018.00368"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "First Time Posting\n\n\n\n\n\n\n\nSonja\n\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\n\n\n\nJul 17, 2024\n\n\nSonja Winter\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024-07-17-first-post/index.html",
+    "href": "posts/2024-07-17-first-post/index.html",
+    "title": "First Time Posting",
+    "section": "",
+    "text": "Back to topCitationBibTeX citation:@online{winter2024,\n  author = {Winter, Sonja},\n  title = {First {Time} {Posting}},\n  date = {2024-07-17},\n  url = {https://winterstat.github.io/posts/2022-10-24-first-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nWinter, Sonja. 2024. “First Time Posting.” July 17, 2024.\nhttps://winterstat.github.io/posts/2022-10-24-first-post/."
   }
 ]
